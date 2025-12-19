@@ -1,0 +1,16 @@
+{
+  "host": "SERVERHOST",
+  "user": "root",
+  "password": "",
+  "database": "VT",
+  "table": "TABLE",
+  "token": "TOKEN",
+  "cols": {
+    "id": "FİELD",
+    "to": "FİELD",
+    "msg": "FİELD",
+    "status": "FİELD",
+    "date": "FİELD",
+    "file": "FİELD"
+  }
+}
