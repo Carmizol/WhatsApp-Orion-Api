@@ -5,6 +5,8 @@
 
 ![Version](https://img.shields.io/badge/release-v1.0.0-blue.svg) ![Platform](https://img.shields.io/badge/platform-Windows%20(Portable)-lightgrey.svg) ![Tech](https://img.shields.io/badge/Electron-Node.js-green.svg)
 
+<img width="1982" height="1140" alt="resim" src="https://github.com/user-attachments/assets/73f189c7-bf31-436e-8c27-4b2ea84b9bfe" />
+
 ---
 
 ## 📦 What is Orion Panel?
@@ -92,6 +94,7 @@ The application requires a `db-config.json` file in the root directory.
     "file": "file_base64"
   }
 }
+
 
 
 
